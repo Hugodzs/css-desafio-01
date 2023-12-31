@@ -36,7 +36,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     border-bottom: 1px solid #33A8DB80;
-    background-image: url(./assets/images/banner.png),linear-gradient(rgba(0, 0, 0, .6), rgba(49, 168, 221, .2), rgba(0, 0, 0, .6));
+    background-image: url(../css-desafio-01/assets/images/banner.png),linear-gradient(rgba(0, 0, 0, .6), rgba(49, 168, 221, .2), rgba(0, 0, 0, .6));
     margin: 0;
 }
 .banner-content h1{
@@ -108,7 +108,7 @@ section{
 #transform-world{
 
     padding: 200px;
-    background-image: url(./assets/images/woman-code.png);
+    background-image: url(../css-desafio-01/assets/images/woman-code.png);
     background-size: cover;
     border-top: 1px solid #33A8DB;
     border-bottom: 1px solid #33A8DB;
