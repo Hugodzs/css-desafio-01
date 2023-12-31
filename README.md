@@ -1,5 +1,5 @@
 # Desafio 01: Criando sua primeira Landing Page com HTML e CSS
-
+Aprendi muita coisa nesse desafio, sabendo como cada tag funciona, cada seletor no CSS! Sensacional !
 
 [Clique aqui](https://hugodzs.github.io/css-desafio-01/) para acessar o resultado final da Landing Page!
 
